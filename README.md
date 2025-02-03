@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 What's up? <br/> I'm Sujit Patel</h1>
-<h3 align="center">A passionate MERN Stack Developer, from India IN 🇮🇳.</h3>
+<h3 align="center">A passionate MERN Stack Developer, from India.</h3>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
