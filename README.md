@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sujit Patel</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">Hi 👋 What's up? <br/> I'm Sujit Patel</h1>
+<h3 align="center">A passionate MERN Stack Developer, from India IN 🇮🇳.</h3>
 <hr/>
-
-- 🌱 I’m currently learning **MERN Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
